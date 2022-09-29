@@ -1,0 +1,107 @@
+body {
+    background-color: lightblue;
+}
+
+#Header {
+    color: navy;
+    text-align: center;
+}
+
+#Email {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+
+}
+
+#Discord {
+    position: absolute;
+    right: 35px;
+    top: 20px;
+}
+
+#Me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+    height: 20%;
+    width: 20%;
+}
+
+#Introduction {
+    position: absolute;
+    top: 30px;
+    text-decoration-line: underline;
+}
+
+#IntroText {
+    position: absolute;
+    top: 60px;
+}
+
+#HopeToLearn {
+    position: absolute;
+    top: 150px;
+    text-decoration-line: underline;
+}
+
+#HopeToLearnText {
+    position: absolute;
+    top: 180px;
+}
+
+#Hobbies {
+    position: absolute;
+    top: 280px;
+    text-decoration-line: underline;
+}
+#HobbiesText {
+    position: absolute;
+    top: 310px;
+}
+
+#FunFact {
+    position: absolute;
+    top: 390px;
+    text-decoration-line: underline;
+}
+#FunFactText {
+    position: absolute;
+    top: 420px;
+}
+
+#Ace {
+    
+    height: 300px;
+    width: 200px;
+    
+}
+
+#Blue {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 480px;
+    left: 220px;
+}
+
+#BlueText {
+    position: absolute;
+    left: 220px;
+    top: 770px;
+}
+
+#GreatestInnovations {
+    position: absolute;
+    right: 350px;
+    top: 450px;
+    text-decoration-line: underline;
+}
+
+#InnovationList {
+    position: absolute;
+    right: 320px;
+    top: 500px;
+    list-style-type: square;
+}
