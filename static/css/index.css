@@ -17,6 +17,17 @@ p {text-align: center;
 
 li {text-align: center;}
 
+.name {
+    text-align: center;
+    font-size: larger;
+    padding: 10px;
+}
+
+.ryan{
+    text-anchor: start;
+    padding: 10px;
+}
+
 ul.square-list {text-align: center;
                 list-style-type: square;
             list-style-position: inside;}
