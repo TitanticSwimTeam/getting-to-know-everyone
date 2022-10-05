@@ -12,22 +12,29 @@ h2 { color:red;
     padding: 25px;
     text-align: center;}
 
-p {text-align: center;
-    padding: 10px;}
-
-li {text-align: center;}
-
 .name {
     text-align: center;
     font-size: larger;
     padding: 10px;
 }
 
-.ryan{
-    text-anchor: start;
+.center{
+    text-align: center;
     padding: 10px;
 }
 
-ul.square-list {text-align: center;
-                list-style-type: square;
-            list-style-position: inside;}
+.indivuidual-know-each-other{
+    text-align: center;
+    font-size: larger;
+}
+
+ul.square-list {
+    text-align: center;
+       list-style-type: square;
+        list-style-position: inside;
+    }
+
+li {
+    padding: 10dp;
+    font-size: larger;
+}
